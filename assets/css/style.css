@@ -362,7 +362,7 @@ body {
   width: 100%;
   background-color: var(--white);
   padding-inline: 15px;
-  max-height: 0;
+  max-height: 60%;
   overflow: hidden;
   visibility: hidden;
   transition: 0.25s var(--cubic-out);
